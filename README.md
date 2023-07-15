@@ -1,19 +1,19 @@
-# `@crashmax/tsconfig`
+# `@pisyukaev/tsconfig`
 
 > ✒ Here is my personal [TypeScript](https://www.typescriptlang.org) config.
 
 ## Install
 
 ```sh
-npm install @crashmax/tsconfig -D
+npm install @pisyukaev/tsconfig -D
 ```
 
 ```sh
-yarn add @crashmax/tsconfig -D
+yarn add @pisyukaev/tsconfig -D
 ```
 
 ```sh
-pnpm add @crashmax/tsconfig -D
+pnpm add @pisyukaev/tsconfig -D
 ```
 
 ## Usage
@@ -21,7 +21,7 @@ pnpm add @crashmax/tsconfig -D
 ```json
 // tsconfig.json
 {
-  "extends": "@crashmax/tsconfig",
+  "extends": "@pisyukaev/tsconfig",
   "compilerOptions": {
     "outDir": "dist"
   },
